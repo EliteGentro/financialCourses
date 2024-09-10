@@ -1,0 +1,172 @@
+{
+    "ahorro": [
+        {
+            "title": "Presupuesto Personal",
+            "description": "Saber cómo hacer un presupuesto mensual detallado para administrar ingresos y gastos. Esto incluye identificar gastos esenciales y no esenciales, y priorizar el ahorro.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "Ahorro para Emergencias",
+            "description": "Mantener un fondo de emergencia que cubra de 3 a 6 meses de gastos. Este fondo debe estar separado del dinero destinado a la jubilación.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "Ahorro para la Jubilación",
+            "description": "Crear el hábito de ahorrar regularmente para la jubilación, ya sea en cuentas de ahorro específicas o fondos de inversión.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          }
+    ],
+    "fiscal": [
+        {
+            "title": "Impuestos sobre la Renta y Ahorro Fiscal",
+            "description": "Entender cómo funcionan los impuestos sobre la renta y las maneras legales de reducir la carga fiscal a través de aportaciones a cuentas de jubilación y otras estrategias.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "Retiro Eficiente de Fondos",
+            "description": "Saber cómo planificar los retiros de fondos durante la jubilación para minimizar los impuestos y prolongar los ahorros.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          }
+    ],
+    "gestion": [
+        {
+            "title": "Reducción y Eliminación de Deudas",
+            "description": "Desarrollar estrategias para pagar deudas de alto interés, como tarjetas de crédito, préstamos estudiantiles, o préstamos personales, antes de la jubilación.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "Evitar Deudas Nuevas",
+            "description": "Aprender a evitar la acumulación de nuevas deudas y vivir dentro de las posibilidades, especialmente a medida que se acerca la jubilación.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          }
+    ],
+    "inversion": [
+        {
+            "title": "Diversificación de Inversiones",
+            "description": "Aprender sobre diferentes tipos de inversiones (acciones, bonos, fondos mutuos, bienes raíces, etc.) y cómo diversificar para reducir riesgos.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "Planes de Jubilación",
+            "description": "Comprender las opciones de planes de jubilación disponibles (como el 401(k) en EE.UU., el IRA, planes de pensiones, etc.) y cómo aprovechar las contribuciones de la empresa y los beneficios fiscales.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "Cálculo del Rendimiento Esperado",
+            "description": "Saber cómo calcular los rendimientos esperados de las inversiones a largo plazo y cómo ajustar las inversiones a medida que se acerca la edad de jubilación.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          },
+          {
+            "title": "ClaseRelleno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "link": "https://www.youtube.com"
+          }
+    ],
+    "presencial":[
+        {
+            "title": "Taller de Reducción y Eliminación de deudas",
+            "description": "Para todos nuestros suscriptores de la Ciudad de México traemos este taller con duración de 2 horas",
+            "link": "https://www.google.com/maps"
+        },
+        {
+            "title": "Taller de Planes de Jubilación",
+            "description": "Para todos nuestros suscriptores de Monterrey traemos este taller con duración de 1 hora",
+            "link": "https://www.google.com/maps"
+        },
+        {
+            "title": "TallerRelleno",
+            "description": "Para todos nuestros suscriptores de ______ traemos este taller con duración de ___ horas",
+            "link": "https://www.google.com/maps"
+        },
+        {
+            "title": "TallerRelleno",
+            "description": "Para todos nuestros suscriptores de ______ traemos este taller con duración de ___ horas",
+            "link": "https://www.google.com/maps"
+        },
+        {
+            "title": "TallerRelleno",
+            "description": "Para todos nuestros suscriptores de ______ traemos este taller con duración de ___ horas",
+            "link": "https://www.google.com/maps"
+        },
+        {
+            "title": "TallerRelleno",
+            "description": "Para todos nuestros suscriptores de ______ traemos este taller con duración de ___ horas",
+            "link": "https://www.google.com/maps"
+        }
+    ]
+  }
