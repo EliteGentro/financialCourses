@@ -10,12 +10,12 @@ import Presencial from "./pages/Presencial";
 const App = () => {
   return (
     <Routes>
-      <Route path="/financialCourses" element={<Home />} />
-      <Route path="/ahorro" element={<AhorroYPresupuesto />} />
-      <Route path="/presencial" element={<Presencial />} />
-      <Route path="/inversion" element={<Inversion />} />
-      <Route path="/planificacion" element={<PlanificacionFiscal />} />
-      <Route path="/gestion" element={<GestionDeDeudas />} />
+      <Route path="/financialCourses/" element={<Home />} />
+      <Route path="/financialCourses/ahorro/" element={<AhorroYPresupuesto />} />
+      <Route path="/financialCourses/presencial/" element={<Presencial />} />
+      <Route path="/financialCourses/inversion/" element={<Inversion />} />
+      <Route path="/financialCourses/planificacion/" element={<PlanificacionFiscal />} />
+      <Route path="/financialCourses/gestion/" element={<GestionDeDeudas />} />
     </Routes>
   );
 };
