@@ -8,8 +8,6 @@ import inversion from '../assets/inversion.png'
 import presencial from '../assets/presencial.png'
 
 
-
-
 const SideBar = () => {
   return (
     <Sidebar className='SideC'>
