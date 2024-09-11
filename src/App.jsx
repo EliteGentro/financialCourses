@@ -10,7 +10,7 @@ import Presencial from "./pages/Presencial";
 const App = () => {
   return (
     <Routes>
-      <Route path="/financialCourses" element={<Home />} />
+      <Route path="./" element={<Home />} />
       <Route path="/financialCourses/ahorro" element={<AhorroYPresupuesto />} />
       <Route path="/financialCourses/presencial" element={<Presencial />} />
       <Route path="/financialCourses/inversion" element={<Inversion />} />
